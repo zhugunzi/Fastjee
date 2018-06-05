@@ -14,7 +14,7 @@ spring:
           uri: https://gitee.com/zhugunzi/Fastjee.git
           searchPaths: fastjee-config-repo
           username: 1667701265@qq.com
-          password: zhu199132617
+          password: shqz8866.
 
 # 将配置中心注册到eureka实现高可用
 eureka:
