@@ -6,7 +6,7 @@ spring:
   redis:
     host: localhost
     port: 6379
-    password:
+    password:shqz8866.
     database: 11
     pool:
       max-active: 20  # 连接池最大连接数（使用负值表示没有限制）
@@ -23,7 +23,7 @@ persistence:
       driver: com.mysql.jdbc.Driver
       url: jdbc:mysql://localhost:3306/${spring.application.name}?useUnicode=true&characterEncoding=utf8&useSSL=false
       username: root
-      password: root
+      password: shqz8866.
     plusConfig:
       #主键类型  0:"数据库ID自增", 1:"用户输入ID",2:"全局唯一ID (数字类型唯一ID)", 3:"全局唯一ID UUID";
       idType: 0
