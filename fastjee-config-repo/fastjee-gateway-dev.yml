@@ -1,5 +1,5 @@
 server:
-  port: 5002
+  port: 6004
 
 # 网关配置
 zuul:
